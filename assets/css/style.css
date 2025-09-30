@@ -33,7 +33,7 @@ nav a:hover {
     background: #2d5fa8;
 }
 
-.main-content {
+.container {
     max-width: 900px;
     margin: 32px auto;
     background: #fff;
